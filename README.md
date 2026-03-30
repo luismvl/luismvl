@@ -1,50 +1,48 @@
-# Luis Vela
+## Hey, I'm Luis 👋
 
-```text
-luismvl@github:~$ whoami
-Systems-focused full-stack developer.
+Full-stack developer building internal platforms, operational interfaces, and production systems since 2022.  
+Based in Bogotá, Colombia. Bilingual English / Spanish.
+
+### What I Build
+
+I work across the stack — from React and Angular frontends to Node.js and Java/Spring Boot backends — with hands-on production debugging across Docker, Nginx, Jenkins, Kubernetes, and Linux.
+
+**Currently working on:**
+
+- **[Nexxus](https://github.com/luismvl)** — Real-time network monitoring interface for 200+ devices. Diagnosed and resolved state management bottlenecks to maintain 60 FPS with React, React Flow, and Zustand.
+- **[NetGest](https://github.com/luismvl)** — Full-stack WISP operations CRM: customers, billing, ticketing, technical visits, RBAC, and network monitoring. Built with AdonisJS, React, PostgreSQL, Docker.
+- **[Fast Or Nothing Admin](https://github.com/luismvl)** — Ground-up rebuild of a degraded racing/events admin platform. Angular, multi-tenant auth, RBAC.
+
+**Recent work:**
+
+- **[Risk Evaluation Platform](https://github.com/luismvl)** — Industrial risk assessments with enforced workflows, automated PDF reports, and a geographic risk map. Next.js + NestJS + BullMQ.
+- **[Crypto Fraud Investigation](https://github.com/luismvl)** — Investigation tool with n8n-driven automation pipeline, AI-assisted analysis, and generated reports. AdonisJS + React.
+
+**Open source:**
+
+- **[react-json-treeview](https://github.com/luismvl/react-json-treeview)** — Zero-dependency React component for JSON inspection with search, keyboard navigation, sticky breadcrumbs, and imperative ref API. [npm](https://www.npmjs.com/package/@luismvl/react-json-treeview) · [demo](https://luismvl.github.io/react-json-treeview/)
+
+### Stack
+
+```
+Frontend    React · Next.js · Angular · TypeScript · TanStack Query
+Backend     Node.js · AdonisJS · NestJS · Java / Spring Boot · REST APIs
+Data        PostgreSQL · Redis · SQL · RBAC
+Infra       Docker · Nginx · Jenkins · GitHub Actions · Kubernetes · Linux
+Testing     Vitest · Playwright
 ```
 
-I build internal platforms, operational interfaces, real-time monitoring systems, and full-stack product workflows. I am strongest in the overlap between frontend, backend, and the infrastructure edge where production issues actually show up.
+### How I Work
 
-## What I Do
+- Diagnose first, then fix — I follow problems across layer boundaries instead of guessing
+- Build systems that stay maintainable after delivery
+- Optimize based on evidence: profiling, metrics, real user impact
+- Care about UX without pretending architecture doesn't matter
 
-- internal platforms and admin systems
-- real-time operational interfaces
-- full-stack product delivery
-- performance work on state-heavy interfaces
-- production debugging across UI, API, and infra
-- legacy recovery and rebuild work when patching is no longer enough
+### Get in Touch
 
-## How I Work
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luismvl)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luismvl114@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://luismvl.dev)
 
-- diagnose first instead of guessing
-- follow the problem across boundaries, not just within one layer
-- optimize based on evidence, not hype
-- build systems that stay maintainable after delivery
-- care about UX without pretending architecture does not matter
-
-## Current Direction
-
-```text
-focus    :: systems / operations / product delivery
-surface  :: dashboards / monitoring / admin / workflows
-approach :: pragmatic / technical / evidence-based
-language :: English / Spanish
-location :: Bogota, Colombia
-```
-
-## Stack
-
-```text
-frontend  :: React / Next.js / Angular / TypeScript
-backend   :: Node.js / AdonisJS / NestJS / Spring Boot
-data      :: PostgreSQL / Redis
-infra     :: Docker / Nginx / Jenkins / Kubernetes / Linux
-testing   :: Vitest / Playwright
-```
-
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/luismvl)
-- [Email](mailto:luismvl114@gmail.com)
+<sub>Open to full-time and contract opportunities. Remote-first, flexible timezone.</sub>
