@@ -9,14 +9,14 @@ I work across the stack — from React and Angular frontends to Node.js and Java
 
 **Currently working on:**
 
-- **[Nexxus](https://github.com/luismvl)** — Real-time network monitoring interface for 200+ devices. Diagnosed and resolved state management bottlenecks to maintain 60 FPS with React, React Flow, and Zustand.
-- **[NetGest](https://github.com/luismvl)** — Full-stack WISP operations CRM: customers, billing, ticketing, technical visits, RBAC, and network monitoring. Built with AdonisJS, React, PostgreSQL, Docker.
-- **[Fast Or Nothing Admin](https://github.com/luismvl)** — Ground-up rebuild of a degraded racing/events admin platform. Angular, multi-tenant auth, RBAC.
+- **Nexxus** — Real-time network monitoring interface for 200+ devices. Diagnosed and resolved state management bottlenecks to maintain 60 FPS with React, React Flow, and Zustand.
+- **NetGest** — Full-stack WISP operations CRM: customers, billing, ticketing, technical visits, RBAC, and network monitoring. Built with AdonisJS, React, PostgreSQL, Docker.
+- **Fast Or Nothing Admin** — Ground-up rebuild of a degraded racing/events admin platform. Angular, multi-tenant auth, RBAC.
 
 **Recent work:**
 
-- **[Risk Evaluation Platform](https://github.com/luismvl)** — Industrial risk assessments with enforced workflows, automated PDF reports, and a geographic risk map. Next.js + NestJS + BullMQ.
-- **[Crypto Fraud Investigation](https://github.com/luismvl)** — Investigation tool with n8n-driven automation pipeline, AI-assisted analysis, and generated reports. AdonisJS + React.
+- **Risk Evaluation Platform** — Industrial risk assessments with enforced workflows, automated PDF reports, and a geographic risk map. Next.js + NestJS + BullMQ.
+- **Crypto Fraud Investigation** — Investigation tool with n8n-driven automation pipeline, AI-assisted analysis, and generated reports. AdonisJS + React.
 
 **Open source:**
 
@@ -43,6 +43,6 @@ Testing     Vitest · Playwright
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luismvl)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luismvl114@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://luismvl.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://luismvl.tech)
 
 <sub>Open to full-time and contract opportunities. Remote-first, flexible timezone.</sub>
