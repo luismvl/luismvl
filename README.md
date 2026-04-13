@@ -32,17 +32,8 @@ Infra       Docker · Nginx · Jenkins · GitHub Actions · Kubernetes · Linux
 Testing     Vitest · Playwright
 ```
 
-### How I Work
-
-- Diagnose first, then fix — I follow problems across layer boundaries instead of guessing
-- Build systems that stay maintainable after delivery
-- Optimize based on evidence: profiling, metrics, real user impact
-- Care about UX without pretending architecture doesn't matter
-
 ### Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luismvl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/luismvl](http://linkedin.com/in/luis-manuel-vela-linares-686358216/))
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luismvl114@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://luismvl.tech)
-
-<sub>Open to full-time and contract opportunities. Remote-first, flexible timezone.</sub>
