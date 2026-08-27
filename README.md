@@ -37,17 +37,6 @@ Bogotá, Colombia · English / Spanish
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=luismvl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luismvl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luismvl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/luis-manuel-vela-linares-686358216/)
