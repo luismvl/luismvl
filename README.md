@@ -6,21 +6,6 @@ Bogotá, Colombia · English / Spanish
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Nexxus** | Real-time network monitoring for 200+ devices | React, React Flow, Zustand |
-| **NetGest** | WISP operations CRM — billing, ticketing, RBAC | AdonisJS, React, PostgreSQL, Docker |
-| **Fast Or Nothing Admin** | Multi-tenant racing/events admin rebuild | Angular, RBAC |
-| **Risk Evaluation Platform** | Industrial risk assessments + PDF reports | Next.js, NestJS, BullMQ |
-| **Crypto Fraud Investigation** | AI-assisted investigation tool with n8n automation | AdonisJS, React |
-
-## Open Source
-
-**[react-json-treeview](https://github.com/luismvl/react-json-treeview)** — Zero-dependency React component for JSON inspection with search, keyboard navigation, and sticky breadcrumbs.
-[npm](https://www.npmjs.com/package/@luismvl/react-json-treeview) · [demo](https://luismvl.github.io/react-json-treeview/)
-
 ## Tech Stack
 
 **Frontend**
@@ -55,8 +40,8 @@ Bogotá, Colombia · English / Spanish
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.global.ssl.fastly.net/api?username=luismvl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.global.ssl.fastly.net/api/top-langs/?username=luismvl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=luismvl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luismvl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
